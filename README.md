@@ -41,11 +41,11 @@ C'est une application de gestion de tâches (ToDo List) permettant aux utilisate
 Ajoute ici des captures d'écran de l'application pour illustrer son fonctionnement. Par exemple :
 
 * **Affichage de toutes les tâches** :
-  ![Affichage de toutes les tâches](https://github.com/melissa-aliouche/todolist/main/toutesLesTaches.PNG)
+  ![Affichage de toutes les tâches](https://github.com/melissa-aliouche/todolist/blob/main/toutesLesTaches.PNG)
 * **Filtrer par catégorie** :
-  ![Filtrer par catégorie](./filtrer.PNG)
+  ![Filtrer par catégorie](https://github.com/melissa-aliouche/todolist/blob/main/filtrer.PNG)
 * **Ajout de tâche** :
-  ![Ajout de tâche](./ajouterUneTache.PNG)
+  ![Ajout de tâche](https://github.com/melissa-aliouche/todolist/blob/main/ajouterUneTache.PNG)
 * **Édition de tâche** :
-  ![Édition de tâche](./modifierUneTache.PNG) 
+  ![Édition de tâche](https://github.com/melissa-aliouche/todolist/blob/main/modifierUneTache.PNG) 
 
