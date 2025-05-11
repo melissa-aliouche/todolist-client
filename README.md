@@ -41,7 +41,7 @@ C'est une application de gestion de tâches (ToDo List) permettant aux utilisate
 Ajoute ici des captures d'écran de l'application pour illustrer son fonctionnement. Par exemple :
 
 * **Affichage de toutes les tâches** :
-  ![Affichage de toutes les tâches](./toutesLesTaches.PNG)
+  ![Affichage de toutes les tâches](https://github.com/melissa-aliouche/todolist/toutesLesTaches.PNG)
 * **Filtrer par catégorie** :
   ![Filtrer par catégorie](./filtrer.PNG)
 * **Ajout de tâche** :
