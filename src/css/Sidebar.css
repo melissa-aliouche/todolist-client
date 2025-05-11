@@ -1,0 +1,62 @@
+/* Style général de la barre latérale */
+.sidebar {
+  width: 200px; /* Largeur de la barre latérale */
+  background-color: rgb(252, 232, 191);
+  border-right: 1px solid rgb(245, 203, 119);
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  position: fixed;
+  height: 100vh;
+  padding-left: 10px;
+}
+
+/* Style des éléments du menu */
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.menu-item {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start; /* Aligner les éléments à gauche */
+  padding: 10px;
+  cursor: pointer;
+  color: #333;
+  transition: background-color 0.3s, color 0.3s;
+  margin-top: 30px; /* Espacement entre les éléments du menu */
+  border-radius: 8px; /* Coins arrondis */
+}
+
+.menu-item span {
+  margin-left: 8px; /* Espacement entre l'icône et le nom */
+}
+
+/* Style pour l'icône */
+.icon {
+  display: inline-block;
+  margin-right: 10px; /* Espacement entre l'icône et le texte */
+}
+
+/* Style lorsque la catégorie est active */
+.menu-item.active {
+  background-color: rgb(238, 161, 7);
+  color: white;
+}
+
+/* Hover effect */
+.menu-item:hover {
+  background-color: rgb(238, 161, 7);
+}
+
+/* Style des icônes */
+.menu-item svg {
+  transition: color 0.3s;
+}
+
+.menu-item.active svg {
+  color: white;
+}
